@@ -1,5 +1,4 @@
-# Banking-Domain
-#  Banking Dashboard Report
+#  Banking Domain Over-View
 
 ## Overview
 This repository contains a **Banking Dashboard Report** created using **Power BI** to analyze and visualize key financial metrics in the banking sector.  
@@ -29,7 +28,7 @@ The report includes the following dashboards:
 3.Deposit Analysis Dashboard – Insights into deposits across different account types.
 4.Summary Dashboard – Consolidated KPIs and performance indicators.
 
-#Author
+#Author --> 
 Shubham Landkar
 📊 Data Analytics Enthusiast | I Used in this project Python, SQL, Power BI, and Business Intelligence
 📧 [Shubhamlandkar13@gamil.com]
